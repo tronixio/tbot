@@ -3,7 +3,7 @@
 ## Features.
 
 - 2 Wheels.
-- 2 Continuous Servos Motors.
+-   Continuous Servos Motors.
 - Power 2xCells 18650 Lithium Ion Rechargeable Batteries, with charger embedded.
 - [PARALLAX Small Robot Chassis.](https://www.parallax.com/product/700-00022)
 - [PARALLAX Small Robot Whell and Tire.](https://www.parallax.com/product/28114)
@@ -23,10 +23,10 @@
 
 ## Charger top.
 
-![TBOT Chatger Top](./pics/tbot-charger-top.png)
+![TBOT Chatger Top](./0.Kicad/charger/pics/top.png)
 
 ## Charger bottom.
 
-![TBOT Charger Bottom](./pics/tbot-charger-bottom.png)
+![TBOT Charger Bottom](./0.Kicad/charger/pics/bottom.png)
 
 ---
