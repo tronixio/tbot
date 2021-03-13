@@ -12,21 +12,21 @@
 
 ## Dashboards.
 
-- [PCB Dashboard](https://github.com/tronixio/tbot/projects/1)
-- [CODE Dashboard](https://github.com/tronixio/tbot/projects/2)
+- [PCB Dashboard.](https://github.com/tronixio/tbot/projects/1)
+- [CODE Dashboard.](https://github.com/tronixio/tbot/projects/2)
 
 ## Schematics.
 
-- [Charger 2x18650](./0.Kicad/charger)
-- [TODO - MCU Board](./0.Kicad/mcu)
-- [TODO - IR Line Follow](./0.Kicad/ir-line)
+- [Charger 2x18650.](./0.Kicad/charger)
+- [TODO - MCU Board.](./0.Kicad/mcu)
+- [TODO - IR Line Follow.](./0.Kicad/ir-line)
 
 ## Charger top.
 
-![TBOT Chatger Top](./0.Kicad/charger/pics/top.png)
+![TBOT Chatger Top.](./0.Kicad/charger/pics/top.png)
 
 ## Charger bottom.
 
-![TBOT Charger Bottom](./0.Kicad/charger/pics/bottom.png)
+![TBOT Charger Bottom.](./0.Kicad/charger/pics/bottom.png)
 
 ---
