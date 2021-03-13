@@ -18,7 +18,7 @@
 
 ## Charger top.
 
-![TBOT Chatger Top.](./0.Kicad/charger/pics/top.png)
+![TBOT Charger Top.](./0.Kicad/charger/pics/top.png)
 
 ## Charger bottom.
 
