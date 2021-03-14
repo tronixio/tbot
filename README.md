@@ -18,11 +18,11 @@
 
 ## Charger top.
 
-![TBOT Charger Top.](./0.Kicad/charger/pics/top.png)
+![TBOT Charger Top.](./0.kicad/charger/pics/top.png)
 
 ## Charger bottom.
 
-![TBOT Charger Bottom.](./0.Kicad/charger/pics/bottom.png)
+![TBOT Charger Bottom.](./0.kicad/charger/pics/bottom.png)
 
 ## Notes.
 
