@@ -12,9 +12,9 @@
 
 ## Kicad.
 
-- [Charger 2x18650.](./0.Kicad/charger)
-- [TODO - MCU Board.](./0.Kicad/mcu)
-- [TODO - IR Line Follow.](./0.Kicad/ir-line)
+- [Charger 2x18650.](./0.kicad/charger)
+- [TODO - MCU Board.](./0.kicad/mcu)
+- [TODO - IR Line Follow.](./0.kicad/ir-line)
 
 ## Charger top.
 
